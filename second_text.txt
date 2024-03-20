@@ -1,0 +1,9 @@
+Earlier version control systems put
+code in a castle, but developers have to
+be given access to read and write to a
+repository, which is where the code is
+stored. This repository, also called a repo,
+often exists on some other machine,
+which requires a network. As developers
+are added, the increased load to this one
+server decreases reliability.
