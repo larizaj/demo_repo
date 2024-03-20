@@ -1,0 +1,12 @@
+Before diving into the details, I want to stress that a key factor for useful commit 
+messages is consistency across collaborators in a repository. In my opinion, it is much 
+more important that commit messages have the same semantics and look the same than 
+they are objectively written optimally. It is powerful to be able to skim a list of commits 
+and be able to get a feeling of the life that is going on in the repository. Some also add 
+integrations to their IDEs that decorate each code line with the commit message subject 
+of the commit that most recently changed that code line. This way of working is much 
+more powerful if commit messages have the same basic shape. The Git feature we 
+are using for this is not very sensitively called git blame. It allows us to point fingers at 
+whoever caused a particular change. While this is useful, the connotations on the word 
+blame are not very constructive or conducive of a healthy culture. We will cover git 
+blame at a later point.
