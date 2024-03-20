@@ -1,3 +1,5 @@
+TITLE: XXXXXXXXXXXXXXXXXXXXXXXXXX
+
 Before diving into the details, I want to stress that a key factor for useful commit 
 messages is consistency across collaborators in a repository. In my opinion, it is much 
 more important that commit messages have the same semantics and look the same than 
